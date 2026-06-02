@@ -1,2 +1,0 @@
-# coupon_finder
-website
